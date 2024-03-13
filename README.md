@@ -1,8 +1,10 @@
+![capa-alura](https://github.com/ketijor/portfolio/blob/main/assets/Front-end-Portfolio.png)
+
 # Portfólio
 
 Olá, bem-vindo ao meu projeto de portfólio.
 
-![image](https://github.com/ketijor/portfolio/blob/main/assets/Front-end-Portfolio.png)
+![portfolio-capa](https://github.com/ketijor/portfolio/assets/71487324/d7c01442-0b3a-479a-b710-c6cc63ecf495)
 
 ## Ferramentas utilizadas:
 
@@ -10,7 +12,7 @@ Olá, bem-vindo ao meu projeto de portfólio.
 
 * CSS
 
-* Flex-box
+* Flexbox
 
 ## Feito por:
 
